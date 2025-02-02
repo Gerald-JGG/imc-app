@@ -1,0 +1,138 @@
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\1ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Objetos.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.FrmEstudiantes.resources
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Objetos.dll
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Datos.dll
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Objetos.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Datos.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\gonza\Downloads\ProyDataGridView\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Objetos.dll
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Datos.dll
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Objetos.pdb
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Datos.pdb
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\gonza\Downloads\IMCApp\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.FrmUsuarios.resources
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\gonza\Downloads\IMCApp\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,24 @@
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.dll
+C:\Users\Alejandro Alfaro\source\repos\3. Proyectos en Limpio\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.dll
+C:\Users\Estudiante\Downloads\ProyDataGridView\ProyDataGridView\ProyDataGridView\Objetos\obj\Debug\Objetos.pdb
+C:\Users\gonza\Downloads\IMCApp\Objetos\bin\Debug\Objetos.dll
+C:\Users\gonza\Downloads\IMCApp\Objetos\bin\Debug\Objetos.pdb
+C:\Users\gonza\Downloads\IMCApp\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\IMCApp\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\IMCApp\Objetos\obj\Debug\Objetos.dll
+C:\Users\gonza\Downloads\IMCApp\Objetos\obj\Debug\Objetos.pdb
