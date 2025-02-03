@@ -39,7 +39,7 @@ namespace Negocio
             bdUsuarios.InsertarIMCBD(usuario);
         }
 
-        public int ObtenerDiagnostico(decimal imc)
+        public int ObtenerDiagnostico(int imc)
         {
             return bdUsuarios.ObtenerDiagnosticoBD(imc);
         }

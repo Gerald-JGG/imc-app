@@ -3,6 +3,7 @@ using System;
 using System.Data;
 using System.Windows.Forms;
 using Objetos;
+using System.Collections.Generic;
 
 namespace Datos
 {
@@ -47,12 +48,9 @@ namespace Datos
             conexionRetorno = conexion.ConexionBD();
             DataTable dataTable = new DataTable();
             NpgsqlDataAdapter adapter = new NpgsqlDataAdapter(
-                "SELECT u.cedula, u.nombre, u.genero, u.peso, u.altura, i.imc, d.diagnostico " +
-                "FROM usuario u " +
-                "JOIN imcusuarios i ON u.cedula = i.cedula " +
-                "JOIN diagnosticosimc d ON i.iddiagnostico = d.id",
-                conexionRetorno
-            );
+                "SELECT cedula, nombre, genero, peso, altura " +
+                "FROM usuario",
+                conexionRetorno);
             adapter.Fill(dataTable);
             dgv.DataSource = dataTable;
         }
@@ -63,18 +61,18 @@ namespace Datos
             conexionRetorno = conexion.ConexionBD();
             DataTable dataTable = new DataTable();
             NpgsqlDataAdapter adapter = new NpgsqlDataAdapter(
-                "SELECT cedula, nombre, genero, peso, altura " +
-                "FROM usuario",
-                conexionRetorno
-            );
+                "SELECT u.cedula, u.nombre, u.genero, u.peso, u.altura, i.imc, d.diagnostico " +
+                "FROM usuario u " +
+                "JOIN imcusuarios i ON u.cedula = i.cedula " +
+                "JOIN diagnosticosimc d ON i.iddiagnostico = d.id", 
+                conexionRetorno);
             adapter.Fill(dataTable);
             dgv.DataSource = dataTable;
         }
 
-
         public void InsertarIMCBD(ObjUsuarios est)
         {
-            decimal imc = CalcularIMC(est.peso, est.altura);
+            int imc = CalcularIMC(est.peso, est.altura);
             int idDiagnostico = ObtenerDiagnosticoBD(imc);
             NpgsqlConnection conexionRetorno = conexion.ConexionBD();
             NpgsqlCommand cmd = new NpgsqlCommand(
@@ -106,7 +104,7 @@ namespace Datos
             return "Usuario no encontrado.";
         }
 
-        public int ObtenerDiagnosticoBD(decimal imc)
+        public int ObtenerDiagnosticoBD(int imc)
         {
             NpgsqlConnection conexionRetorno = conexion.ConexionBD();
             NpgsqlCommand cmd = new NpgsqlCommand(
@@ -122,10 +120,9 @@ namespace Datos
             return 0;
         }
 
-        public decimal CalcularIMC(int peso, int altura)
+        public int CalcularIMC(int peso, int altura)
         {
-            decimal alturaMetros = altura / 100.0m;
-            return peso / (alturaMetros * alturaMetros);
+            return (peso * 10000) / (altura * altura);
         }
     }
 }

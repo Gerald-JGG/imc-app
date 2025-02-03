@@ -61,6 +61,7 @@
             this.txtCedula1 = new System.Windows.Forms.TextBox();
             this.grbMostrar1 = new System.Windows.Forms.GroupBox();
             this.dtgUsuarios1 = new System.Windows.Forms.DataGridView();
+            this.grbDatos1 = new System.Windows.Forms.GroupBox();
             this.tcUsuarios.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.grbDatos.SuspendLayout();
@@ -69,6 +70,7 @@
             this.tabPage2.SuspendLayout();
             this.grbMostrar1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgUsuarios1)).BeginInit();
+            this.grbDatos1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tcUsuarios
@@ -114,7 +116,7 @@
             this.grbDatos.Size = new System.Drawing.Size(566, 159);
             this.grbDatos.TabIndex = 6;
             this.grbDatos.TabStop = false;
-            this.grbDatos.Text = "Datos del Estudiante";
+            this.grbDatos.Text = "Datos del Usuario";
             // 
             // txtAltura
             // 
@@ -136,12 +138,13 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(478, 113);
+            this.btnLimpiar.Location = new System.Drawing.Point(442, 122);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 28);
             this.btnLimpiar.TabIndex = 10;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // lbnFecha
             // 
@@ -154,12 +157,13 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(478, 79);
+            this.btnEliminar.Location = new System.Drawing.Point(442, 88);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(75, 28);
             this.btnEliminar.TabIndex = 4;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // txtPeso
             // 
@@ -170,12 +174,13 @@
             // 
             // btnModificar
             // 
-            this.btnModificar.Location = new System.Drawing.Point(478, 46);
+            this.btnModificar.Location = new System.Drawing.Point(442, 55);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(75, 28);
             this.btnModificar.TabIndex = 3;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // txtNombre
             // 
@@ -186,12 +191,13 @@
             // 
             // btnInsertar
             // 
-            this.btnInsertar.Location = new System.Drawing.Point(478, 15);
+            this.btnInsertar.Location = new System.Drawing.Point(442, 24);
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(75, 28);
             this.btnInsertar.TabIndex = 1;
             this.btnInsertar.Text = "Insertar";
             this.btnInsertar.UseVisualStyleBackColor = true;
+            this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
             // txtCedula
             // 
@@ -264,17 +270,7 @@
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.txtIMC);
-            this.tabPage2.Controls.Add(this.txtGenero1);
-            this.tabPage2.Controls.Add(this.label6);
-            this.tabPage2.Controls.Add(this.label7);
-            this.tabPage2.Controls.Add(this.label8);
-            this.tabPage2.Controls.Add(this.label9);
-            this.tabPage2.Controls.Add(this.label10);
-            this.tabPage2.Controls.Add(this.txtAltura1);
-            this.tabPage2.Controls.Add(this.txtPeso1);
-            this.tabPage2.Controls.Add(this.txtNombre1);
-            this.tabPage2.Controls.Add(this.txtCedula1);
+            this.tabPage2.Controls.Add(this.grbDatos1);
             this.tabPage2.Controls.Add(this.grbMostrar1);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
@@ -286,16 +282,16 @@
             // 
             // txtIMC
             // 
-            this.txtIMC.Location = new System.Drawing.Point(279, 6);
+            this.txtIMC.Location = new System.Drawing.Point(272, 26);
             this.txtIMC.Multiline = true;
             this.txtIMC.Name = "txtIMC";
             this.txtIMC.ReadOnly = true;
-            this.txtIMC.Size = new System.Drawing.Size(295, 125);
+            this.txtIMC.Size = new System.Drawing.Size(275, 125);
             this.txtIMC.TabIndex = 29;
             // 
             // txtGenero1
             // 
-            this.txtGenero1.Location = new System.Drawing.Point(61, 59);
+            this.txtGenero1.Location = new System.Drawing.Point(63, 79);
             this.txtGenero1.Name = "txtGenero1";
             this.txtGenero1.ReadOnly = true;
             this.txtGenero1.Size = new System.Drawing.Size(203, 20);
@@ -304,7 +300,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(21, 114);
+            this.label6.Location = new System.Drawing.Point(23, 134);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(37, 13);
             this.label6.TabIndex = 27;
@@ -313,7 +309,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(24, 88);
+            this.label7.Location = new System.Drawing.Point(26, 108);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(34, 13);
             this.label7.TabIndex = 26;
@@ -322,7 +318,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(13, 61);
+            this.label8.Location = new System.Drawing.Point(15, 81);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(45, 13);
             this.label8.TabIndex = 25;
@@ -331,7 +327,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(11, 35);
+            this.label9.Location = new System.Drawing.Point(13, 55);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(47, 13);
             this.label9.TabIndex = 24;
@@ -340,7 +336,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(15, 9);
+            this.label10.Location = new System.Drawing.Point(17, 29);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(43, 13);
             this.label10.TabIndex = 23;
@@ -348,7 +344,7 @@
             // 
             // txtAltura1
             // 
-            this.txtAltura1.Location = new System.Drawing.Point(61, 111);
+            this.txtAltura1.Location = new System.Drawing.Point(63, 131);
             this.txtAltura1.Name = "txtAltura1";
             this.txtAltura1.ReadOnly = true;
             this.txtAltura1.Size = new System.Drawing.Size(203, 20);
@@ -356,7 +352,7 @@
             // 
             // txtPeso1
             // 
-            this.txtPeso1.Location = new System.Drawing.Point(61, 85);
+            this.txtPeso1.Location = new System.Drawing.Point(63, 105);
             this.txtPeso1.Name = "txtPeso1";
             this.txtPeso1.ReadOnly = true;
             this.txtPeso1.Size = new System.Drawing.Size(203, 20);
@@ -364,7 +360,7 @@
             // 
             // txtNombre1
             // 
-            this.txtNombre1.Location = new System.Drawing.Point(61, 32);
+            this.txtNombre1.Location = new System.Drawing.Point(63, 52);
             this.txtNombre1.Name = "txtNombre1";
             this.txtNombre1.ReadOnly = true;
             this.txtNombre1.Size = new System.Drawing.Size(203, 20);
@@ -372,7 +368,7 @@
             // 
             // txtCedula1
             // 
-            this.txtCedula1.Location = new System.Drawing.Point(61, 6);
+            this.txtCedula1.Location = new System.Drawing.Point(63, 26);
             this.txtCedula1.Name = "txtCedula1";
             this.txtCedula1.ReadOnly = true;
             this.txtCedula1.Size = new System.Drawing.Size(203, 20);
@@ -381,23 +377,48 @@
             // grbMostrar1
             // 
             this.grbMostrar1.Controls.Add(this.dtgUsuarios1);
-            this.grbMostrar1.Location = new System.Drawing.Point(7, 144);
+            this.grbMostrar1.Location = new System.Drawing.Point(7, 171);
             this.grbMostrar1.Margin = new System.Windows.Forms.Padding(2);
             this.grbMostrar1.Name = "grbMostrar1";
             this.grbMostrar1.Padding = new System.Windows.Forms.Padding(2);
-            this.grbMostrar1.Size = new System.Drawing.Size(566, 185);
+            this.grbMostrar1.Size = new System.Drawing.Size(566, 158);
             this.grbMostrar1.TabIndex = 6;
             this.grbMostrar1.TabStop = false;
             this.grbMostrar1.Text = "Usuarios Registrados";
             // 
             // dtgUsuarios1
             // 
+            this.dtgUsuarios1.AllowUserToAddRows = false;
+            this.dtgUsuarios1.AllowUserToDeleteRows = false;
             this.dtgUsuarios1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgUsuarios1.Location = new System.Drawing.Point(5, 18);
             this.dtgUsuarios1.Name = "dtgUsuarios1";
-            this.dtgUsuarios1.Size = new System.Drawing.Size(556, 162);
-            this.dtgUsuarios1.TabIndex = 1;
-            this.dtgUsuarios1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgUsuarios1_CellContentClick);
+            this.dtgUsuarios1.ReadOnly = true;
+            this.dtgUsuarios1.RowHeadersWidth = 51;
+            this.dtgUsuarios1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dtgUsuarios1.Size = new System.Drawing.Size(555, 135);
+            this.dtgUsuarios1.TabIndex = 6;
+            this.dtgUsuarios1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgUsuarios1_CellClick);
+            // 
+            // grbDatos1
+            // 
+            this.grbDatos1.Controls.Add(this.txtGenero1);
+            this.grbDatos1.Controls.Add(this.txtIMC);
+            this.grbDatos1.Controls.Add(this.label6);
+            this.grbDatos1.Controls.Add(this.label7);
+            this.grbDatos1.Controls.Add(this.label8);
+            this.grbDatos1.Controls.Add(this.label9);
+            this.grbDatos1.Controls.Add(this.label10);
+            this.grbDatos1.Controls.Add(this.txtAltura1);
+            this.grbDatos1.Controls.Add(this.txtPeso1);
+            this.grbDatos1.Controls.Add(this.txtNombre1);
+            this.grbDatos1.Controls.Add(this.txtCedula1);
+            this.grbDatos1.Location = new System.Drawing.Point(7, 6);
+            this.grbDatos1.Name = "grbDatos1";
+            this.grbDatos1.Size = new System.Drawing.Size(565, 159);
+            this.grbDatos1.TabIndex = 30;
+            this.grbDatos1.TabStop = false;
+            this.grbDatos1.Text = "IMC Calculado del Usuario";
             // 
             // FrmUsuarios
             // 
@@ -416,9 +437,10 @@
             this.grbMostrar.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtgUsuarios)).EndInit();
             this.tabPage2.ResumeLayout(false);
-            this.tabPage2.PerformLayout();
             this.grbMostrar1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtgUsuarios1)).EndInit();
+            this.grbDatos1.ResumeLayout(false);
+            this.grbDatos1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -438,7 +460,6 @@
         private System.Windows.Forms.TextBox txtPeso1;
         private System.Windows.Forms.TextBox txtNombre1;
         private System.Windows.Forms.TextBox txtCedula1;
-        private System.Windows.Forms.DataGridView dtgUsuarios1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.GroupBox grbDatos;
         private System.Windows.Forms.ComboBox cmbGenero;
@@ -457,6 +478,8 @@
         private System.Windows.Forms.GroupBox grbMostrar;
         private System.Windows.Forms.DataGridView dtgUsuarios;
         private System.Windows.Forms.TextBox txtAltura;
+        private System.Windows.Forms.DataGridView dtgUsuarios1;
+        private System.Windows.Forms.GroupBox grbDatos1;
     }
 }
 

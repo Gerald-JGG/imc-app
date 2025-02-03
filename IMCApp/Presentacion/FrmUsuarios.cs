@@ -17,22 +17,17 @@ namespace Presentacion
         public void LimpiarCampos()
         {
             txtCedula.Clear();
+            txtCedula.Enabled = true;
             txtNombre.Clear();
             cmbGenero.SelectedIndex = -1;
             txtPeso.Clear();
             txtAltura.Clear();
-            txtCedula1.Clear();
-            txtNombre1.Clear();
-            txtGenero1.Clear();
-            txtPeso1.Clear();
-            txtAltura1.Clear();
-            txtIMC.Clear();
         }
 
         public void MostrarDatos()
         {
-            usuarios.MostrarUsuarios1(dtgUsuarios);
-            usuarios.MostrarUsuarios(dtgUsuarios1);
+            usuarios.MostrarUsuarios(dtgUsuarios);
+            usuarios.MostrarUsuarios1(dtgUsuarios1);
         }
 
         private void btnInsertar_Click(object sender, EventArgs e)
@@ -102,7 +97,7 @@ namespace Presentacion
             }
         }
 
-        private void dtgUsuarios1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void dtgUsuarios1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
             {
